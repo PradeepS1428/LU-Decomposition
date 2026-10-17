@@ -22,7 +22,8 @@ Developed by: PRADEEP S
 RegisterNumber: 26015813
 */
 ```
-<img width="888" height="797" alt="image" src="https://github.com/user-attachments/assets/eb2887ca-43fb-44e7-adcc-11e861673df2" />
+<img width="772" height="803" alt="image" src="https://github.com/user-attachments/assets/5511724c-091b-467a-9855-9fbe7171a587" />
+
 (ii) To find the LU Decomposition of a matrix
 ```
 /*
@@ -31,12 +32,14 @@ Developed by: PRADEEP S
 RegisterNumber: 26015813
 */
 ```
-<img width="1217" height="545" alt="image" src="https://github.com/user-attachments/assets/cb82e46f-f55e-4628-9ebf-f27b2f27e5ec" />
+<img width="728" height="750" alt="image" src="https://github.com/user-attachments/assets/6f7cd102-6be1-4289-b7f0-cc42301354ce" />
+
 ## Output:
 
-<img width="1217" height="513" alt="image" src="https://github.com/user-attachments/assets/7cd5a51d-219f-475c-a306-bf8aa1822f43" />
+<img width="987" height="561" alt="image" src="https://github.com/user-attachments/assets/912a2d61-e2ff-453c-abc8-9143ae8cb1de" />
+<img width="956" height="226" alt="image" src="https://github.com/user-attachments/assets/6c66a556-b29d-4b24-8c45-8bce1542bb32" />
 
-<img width="1110" height="211" alt="image" src="https://github.com/user-attachments/assets/f6ea8c54-8e37-410f-b259-0d9518ad00d9" />
+
 
 
 
