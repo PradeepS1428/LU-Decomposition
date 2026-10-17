@@ -16,30 +16,24 @@ To write a program to find the LU Decomposition of a matrix.
 ## Program:
 (i) To find the L and U matrix
 ```
-
 /*
 Program to find the L and U matrix.
-<img width="888" height="797" alt="image" src="https://github.com/user-attachments/assets/eb2887ca-43fb-44e7-adcc-11e861673df2" />
-
 Developed by: PRADEEP S
 RegisterNumber: 26015813
 */
 ```
+<img width="888" height="797" alt="image" src="https://github.com/user-attachments/assets/eb2887ca-43fb-44e7-adcc-11e861673df2" />
 (ii) To find the LU Decomposition of a matrix
 ```
-<img width="1217" height="545" alt="image" src="https://github.com/user-attachments/assets/cb82e46f-f55e-4628-9ebf-f27b2f27e5ec" />
-
 /*
 Program to find the LU Decomposition of a matrix.
-<img width="1217" height="545" alt="image" src="https://github.com/user-attachments/assets/cb82e46f-f55e-4628-9ebf-f27b2f27e5ec" />
-
 Developed by: PRADEEP S
 RegisterNumber: 26015813
 */
 ```
-
+<img width="1217" height="545" alt="image" src="https://github.com/user-attachments/assets/cb82e46f-f55e-4628-9ebf-f27b2f27e5ec" />
 ## Output:
-![lu decomposition]()
+
 <img width="1217" height="513" alt="image" src="https://github.com/user-attachments/assets/7cd5a51d-219f-475c-a306-bf8aa1822f43" />
 
 <img width="1110" height="211" alt="image" src="https://github.com/user-attachments/assets/f6ea8c54-8e37-410f-b259-0d9518ad00d9" />
